@@ -45,3 +45,5 @@ out/
 # Env
 .env
 application-local.yml
+src/main/resources/application.yml
+*.yml
